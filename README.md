@@ -1,7 +1,7 @@
 <h1 align="center">Rocket Music Player - #boracodar challenge 01 </h1>
 
 <p align="center">
-Challeng created by Rockeseat.
+Challenge created by Rockeseat.
 </p>
 
 <p align="center">
@@ -22,13 +22,17 @@ Challeng created by Rockeseat.
 
 <br> 
 
+
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
 
-- <span>React.js</span> <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
-- <span> JavaScript </span>  <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
-- 💅&nbsp;&nbsp;&nbsp; Styled Components 
+- <span>[**React.js**](https://reactjs.org/): A JavaScript library for building user interfaces</span> <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+- <span>[**JavaScript**](https://www.javascript.com/): Is the programming language of the Web
+ </span>  <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+- 💅&nbsp;&nbsp;&nbsp; [**Styled-Components**](https://www.javascript.com/): a React-specific CSS-in-JS styling solution that creates a platform for developers to write actual CSS code to style React components
+
 
 <br> 
 
